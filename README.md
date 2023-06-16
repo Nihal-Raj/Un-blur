@@ -1,6 +1,6 @@
 # Depix
 
-Depix is a tool for recovering passwords from pixelized screenshots.
+Un-blur is a tool for recovering passwords from pixelized screenshots. **Note it takes approximately 30 mins to for the output image**.
 
 This implementation works on pixelized images that were created with a linear box filter.
 In [this article](https://www.linkedin.com/pulse/recovering-passwords-from-pixelized-screenshots-sipke-mellema) I cover background information on pixelization and similar research.
