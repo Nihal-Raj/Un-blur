@@ -8,11 +8,12 @@ This algorithm uses the fact that each linear box "filter" processes each block 
 
 After each correct block has no more geometrical match, it will output all the correct blocks directly. 
 
-Tools Required:
+**Tools Required**:
 
 - [Python](https://www.python.org/downloads) (Check `Add Python 3.X to PATH)
 - pillow library - `pip install pillow` 
-How to Run:
+
+**How to Run**:
 - Open command prompt with Administrative Privilege
 - Change diretory to a preffered location, say Desktop - `cd %UserProfile%\Desktop` and Create a new folder named "Ub-blur"
 - Navigate to the newly created folder - `cd Un-blur`
